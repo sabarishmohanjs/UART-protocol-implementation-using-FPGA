@@ -1,6 +1,6 @@
-# UART Protocol Implementation on Nexys A7 FPGA 🎉🔌
+# UART Protocol Implementation on Nexys A7 FPGA 
 
-As a team[Hemanth](https://github.com/hemanth028), [Naveen Kumar](https://github.com/naveen20306), [Sabarish Mohan](https://github.com/sabarishmohanjs), we have designed and implemented a fully functional UART communication system between two **Nexys A7 100T FPGA boards**, using custom Verilog code. This project covers the complete UART protocol, including start bits, stop bits, parity bit, and robust metastability handling.
+As a team [Hemanth](https://github.com/hemanth028), [Naveen Kumar](https://github.com/naveen20306), [Sabarish Mohan](https://github.com/sabarishmohanjs), we have designed and implemented a fully functional UART communication system between two **Nexys A7 100T FPGA boards**, using custom Verilog code. This project covers the complete UART protocol, including start bits, stop bits, parity bit, and robust metastability handling.
 
 ---
 
